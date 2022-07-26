@@ -1,1 +1,24 @@
 
+{
+        "ID": "1",
+        "Title": "Не открывается ссылка (Ошибка: 404)",
+        "Project": "Сайт 'Тестирование Программного Обеспечения'",
+        "Steps": [
+                "1. Перейти по ссылке https://software-testing.org/testing/test-suit-ili-testovyy-nabor.html",
+                "2. Нажать ссылку 'тест кейсов'"
+        ],
+        "Enviroment":
+        {
+                "OS": "Windows 10 Pro x64",
+                "Browser": "Google Chrome v 100.0.4896.60 x64"
+        },
+        "Component": "ссылка 'Программного Обеспечения'",
+        "Actual result": "Не открывается ссылка",
+        "Expected result": "Должна открыться ссылка на статью",
+        "Severity": "Critical",
+        "Priority": "High",
+        "Status": "Open",
+        "Author": "Евгений Жи",
+        "Sign to": "Вадим К.",
+        "Attachments": "absent"
+}
